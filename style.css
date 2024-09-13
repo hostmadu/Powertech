@@ -1,0 +1,15 @@
+.nav-link{
+    font-size: 25px;
+    font-family: serif;
+}
+.navbar-light .navbar-brand{
+color: rgb(0, 0, 255);
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+color: royalblue;
+}
+.info{
+    width: 90%;
+    height: 30%;
+    margin-left: 5%;
+}
